@@ -19,7 +19,7 @@ This project demonstrates how to implement a paywall for video content using the
 1. Clone this repository:
 
    ```bash
-  git clone https://github.com/g0drlc/Coinbase-x402.git
+     git clone https://github.com/g0drlc/Coinbase-x402.git
    ```
 
 2. Install dependencies:
