@@ -19,8 +19,7 @@ This project demonstrates how to implement a paywall for video content using the
 1. Clone this repository:
 
    ```bash
-   git clone git@github.com:quiknode-labs/qn-guide-examples.git
-   cd sample-dapps/coinbase-x402
+  git clone https://github.com/g0drlc/Coinbase-x402.git
    ```
 
 2. Install dependencies:
